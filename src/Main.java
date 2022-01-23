@@ -13,9 +13,9 @@ public class Main {
             bonusBalans = 0;
         }
 
-        int BalanceOut =balance + amount + bonusBalans;
+        int balanceOut =balance + amount + bonusBalans;
 
-        System.out.println("Ваш баланс составляет: " + BalanceOut + " рублей.Спасибо что пользуетесь нашими услугами.");
+        System.out.println("Ваш баланс составляет: " + balanceOut + " рублей.Спасибо что пользуетесь нашими услугами.");
     }
 }
 
